@@ -1,0 +1,4 @@
+openai
+typer[all]
+python-dotenv
+requests 
