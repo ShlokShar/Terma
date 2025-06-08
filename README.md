@@ -1,10 +1,10 @@
 # Terma
 
-Terma is a natural language command-line assistant that helps you run terminal commands without needing to memorize syntax. Whether you're installing software, updating packages, or configuring your environment, Terma translates plain English instructions into accurate shell commands for your terminal. 
+Terma is a LLM based command-line assistant that helps you run terminal commands without needing to memorize syntax. Whether you're installing software, updating packages, or configuring your environment, Terma translates plain English instructions into accurate shell commands for your terminal. 
 
 ## Description
 
-Terma (short for Terminal Assistant) is designed to make the terminal more human-friendly. It removes the need to remember complex package manager commands, instead letting you type instructions like `terma install Node.js`. It intelligently detects your OS (Linux, macOS, or Windows) and uses the correct command — whether that’s `apt`, `brew`, or `choco`. Powered by an AI model and built with a modular architecture, Terma helps beginners learn, and helps experts go faster.
+Terma (short for Terminal Assistant) is intended to make the terminal easier to use. It removes the need to remember complex package manager commands, instead letting you type instructions like `terma install Node.js`. It uses the OpenAI LLM to detects your OS (Linux, macOS, or Windows) and uses the correct command; whether that’s `apt`, `brew`, or `choco`. 
 
 ## Getting Started
 
